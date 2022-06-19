@@ -87,7 +87,7 @@ body {
 
 .exercise-card:hover,
 .bodyPart-card:hover {
-	transform: scale(1.1, 1.1);
+	transform: scale(1.01, 1.01);
 }
 
 .search-btn:hover {
@@ -99,8 +99,8 @@ body {
 	display: flex;
 	flex-direction: column;
 	gap: 24px;
-	width: 387px;
-	height: 381px;
+	width: 360px;
+	height: 350px;
 	text-decoration: none;
 }
 
